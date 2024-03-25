@@ -55,7 +55,7 @@
 
 .box{
     height:500px;
-    width:700px;
+    width:100%;
     background:linear-gradient(120deg,rgba(64, 67, 231,0.5),rgba(226, 102, 123,0.5));
     box-shadow: 20px rgb(189, 177, 177);
     border:2px solid rgb(189, 177, 177);
